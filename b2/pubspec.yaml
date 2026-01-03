@@ -1,0 +1,11 @@
+name: qlsv_project
+description: Project quan ly sinh vien using Clean Architecture.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  postgres: ^3.0.0 
+  get_it: ^9.2.0
